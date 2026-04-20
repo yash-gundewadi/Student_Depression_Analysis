@@ -1,6 +1,6 @@
 # Student Depression Analysis Dashboard
 
-### Dashboard Overview : *(<img width="1484" height="848" alt="Image" src="https://github.com/user-attachments/assets/f74a3f64-cd1d-481a-a4f8-c43a8c375247" />)*
+### Dashboard Overview : *<img width="1484" height="848" alt="Image" src="https://github.com/user-attachments/assets/f74a3f64-cd1d-481a-a4f8-c43a8c375247" />*
 
 ---
 
